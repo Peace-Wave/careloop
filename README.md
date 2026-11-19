@@ -1,6 +1,6 @@
 # CareLoop Clinics — No-show analysis
 
-**Repository link:** `<paste your public GitHub repository URL here>`
+**Repository link:** `https://github.com/Peace-Wave/careloop`
 
 ## Summary (one finding per Part)
 1. **Part 1 (cleaning):** 1,020 raw rows became 990 clean bookings (20 duplicates, 6 unreadable dates and 4 blank statuses removed); 218 of 990 bookings (22.0%) are no-shows.
